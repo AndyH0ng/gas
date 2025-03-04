@@ -1,0 +1,498 @@
+{
+    "object": "list",
+    "results": [
+        {
+            "object": "page",
+            "id": "1aca9809-6c8a-80d7-9836-e237f4ca36ae",
+            "created_time": "2025-03-04T17:33:00.000Z",
+            "last_edited_time": "2025-03-04T17:39:00.000Z",
+            "created_by": {
+                "object": "user",
+                "id": "5f0ef011-fed1-4676-b81e-424613690e5f"
+            },
+            "last_edited_by": {
+                "object": "user",
+                "id": "5f0ef011-fed1-4676-b81e-424613690e5f"
+            },
+            "cover": null,
+            "icon": null,
+            "parent": {
+                "type": "database_id",
+                "database_id": "1aca9809-6c8a-806a-9970-ca1439f4af2e"
+            },
+            "archived": false,
+            "in_trash": false,
+            "properties": {
+                "사람": {
+                    "id": "U|gD",
+                    "type": "people",
+                    "people": []
+                },
+                "stats": {
+                    "id": "mS<H",
+                    "type": "status",
+                    "status": {
+                        "id": "f6aaa284-6d6f-42a5-9527-500347980689",
+                        "name": "진행 중",
+                        "color": "blue"
+                    }
+                },
+                "Name": {
+                    "id": "title",
+                    "type": "title",
+                    "title": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "ek",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "ek",
+                            "href": null
+                        }
+                    ]
+                }
+            },
+            "url": "https://www.notion.so/ek-1aca98096c8a80d79836e237f4ca36ae",
+            "public_url": null
+        },
+        {
+            "object": "page",
+            "id": "1aca9809-6c8a-8026-b74c-e0dd804fdcc6",
+            "created_time": "2025-03-04T17:30:00.000Z",
+            "last_edited_time": "2025-03-04T17:30:00.000Z",
+            "created_by": {
+                "object": "user",
+                "id": "5f0ef011-fed1-4676-b81e-424613690e5f"
+            },
+            "last_edited_by": {
+                "object": "user",
+                "id": "5f0ef011-fed1-4676-b81e-424613690e5f"
+            },
+            "cover": null,
+            "icon": null,
+            "parent": {
+                "type": "database_id",
+                "database_id": "1aca9809-6c8a-806a-9970-ca1439f4af2e"
+            },
+            "archived": false,
+            "in_trash": false,
+            "properties": {
+                "사람": {
+                    "id": "U|gD",
+                    "type": "people",
+                    "people": []
+                },
+                "stats": {
+                    "id": "mS<H",
+                    "type": "status",
+                    "status": {
+                        "id": "dd4f4910-b324-46d5-a458-57cd8ab5ed94",
+                        "name": "시작 전",
+                        "color": "default"
+                    }
+                },
+                "Name": {
+                    "id": "title",
+                    "type": "title",
+                    "title": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "라",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "라",
+                            "href": null
+                        }
+                    ]
+                }
+            },
+            "url": "https://www.notion.so/1aca98096c8a8026b74ce0dd804fdcc6",
+            "public_url": null
+        },
+        {
+            "object": "page",
+            "id": "1aca9809-6c8a-807d-b2fb-dde2ce3dcf29",
+            "created_time": "2025-03-04T17:30:00.000Z",
+            "last_edited_time": "2025-03-04T17:30:00.000Z",
+            "created_by": {
+                "object": "user",
+                "id": "5f0ef011-fed1-4676-b81e-424613690e5f"
+            },
+            "last_edited_by": {
+                "object": "user",
+                "id": "5f0ef011-fed1-4676-b81e-424613690e5f"
+            },
+            "cover": null,
+            "icon": null,
+            "parent": {
+                "type": "database_id",
+                "database_id": "1aca9809-6c8a-806a-9970-ca1439f4af2e"
+            },
+            "archived": false,
+            "in_trash": false,
+            "properties": {
+                "사람": {
+                    "id": "U|gD",
+                    "type": "people",
+                    "people": []
+                },
+                "stats": {
+                    "id": "mS<H",
+                    "type": "status",
+                    "status": {
+                        "id": "dd4f4910-b324-46d5-a458-57cd8ab5ed94",
+                        "name": "시작 전",
+                        "color": "default"
+                    }
+                },
+                "Name": {
+                    "id": "title",
+                    "type": "title",
+                    "title": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "E",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "E",
+                            "href": null
+                        }
+                    ]
+                }
+            },
+            "url": "https://www.notion.so/E-1aca98096c8a807db2fbdde2ce3dcf29",
+            "public_url": null
+        },
+        {
+            "object": "page",
+            "id": "1aca9809-6c8a-80c7-b650-f3471e5cc837",
+            "created_time": "2025-03-04T13:57:00.000Z",
+            "last_edited_time": "2025-03-04T13:57:00.000Z",
+            "created_by": {
+                "object": "user",
+                "id": "5f0ef011-fed1-4676-b81e-424613690e5f"
+            },
+            "last_edited_by": {
+                "object": "user",
+                "id": "5f0ef011-fed1-4676-b81e-424613690e5f"
+            },
+            "cover": null,
+            "icon": null,
+            "parent": {
+                "type": "database_id",
+                "database_id": "1aca9809-6c8a-806a-9970-ca1439f4af2e"
+            },
+            "archived": false,
+            "in_trash": false,
+            "properties": {
+                "date": {
+                    "id": ":v@q",
+                    "type": "date",
+                    "date": {
+                        "start": "2025-03-08",
+                        "end": null,
+                        "time_zone": null
+                    }
+                },
+                "사람": {
+                    "id": "U|gD",
+                    "type": "people",
+                    "people": []
+                },
+                "stats": {
+                    "id": "mS<H",
+                    "type": "status",
+                    "status": {
+                        "id": "dd4f4910-b324-46d5-a458-57cd8ab5ed94",
+                        "name": "시작 전",
+                        "color": "default"
+                    }
+                },
+                "Name": {
+                    "id": "title",
+                    "type": "title",
+                    "title": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "D",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "D",
+                            "href": null
+                        }
+                    ]
+                }
+            },
+            "url": "https://www.notion.so/D-1aca98096c8a80c7b650f3471e5cc837",
+            "public_url": null
+        },
+        {
+            "object": "page",
+            "id": "1aca9809-6c8a-80d2-9d50-c634a3d20608",
+            "created_time": "2025-03-04T13:56:00.000Z",
+            "last_edited_time": "2025-03-04T17:39:00.000Z",
+            "created_by": {
+                "object": "user",
+                "id": "5f0ef011-fed1-4676-b81e-424613690e5f"
+            },
+            "last_edited_by": {
+                "object": "user",
+                "id": "5f0ef011-fed1-4676-b81e-424613690e5f"
+            },
+            "cover": null,
+            "icon": null,
+            "parent": {
+                "type": "database_id",
+                "database_id": "1aca9809-6c8a-806a-9970-ca1439f4af2e"
+            },
+            "archived": false,
+            "in_trash": false,
+            "properties": {
+                "date": {
+                    "id": ":v@q",
+                    "type": "date",
+                    "date": {
+                        "start": "2025-03-07",
+                        "end": null,
+                        "time_zone": null
+                    }
+                },
+                "사람": {
+                    "id": "U|gD",
+                    "type": "people",
+                    "people": []
+                },
+                "stats": {
+                    "id": "mS<H",
+                    "type": "status",
+                    "status": {
+                        "id": "32616285-4c35-47d8-a811-2421a0629fb6",
+                        "name": "완료",
+                        "color": "green"
+                    }
+                },
+                "Name": {
+                    "id": "title",
+                    "type": "title",
+                    "title": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "다",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "다",
+                            "href": null
+                        }
+                    ]
+                }
+            },
+            "url": "https://www.notion.so/1aca98096c8a80d29d50c634a3d20608",
+            "public_url": null
+        },
+        {
+            "object": "page",
+            "id": "1aca9809-6c8a-8001-bbce-f968a60af5cd",
+            "created_time": "2025-03-04T13:56:00.000Z",
+            "last_edited_time": "2025-03-04T17:25:00.000Z",
+            "created_by": {
+                "object": "user",
+                "id": "5f0ef011-fed1-4676-b81e-424613690e5f"
+            },
+            "last_edited_by": {
+                "object": "user",
+                "id": "5f0ef011-fed1-4676-b81e-424613690e5f"
+            },
+            "cover": null,
+            "icon": null,
+            "parent": {
+                "type": "database_id",
+                "database_id": "1aca9809-6c8a-806a-9970-ca1439f4af2e"
+            },
+            "archived": false,
+            "in_trash": false,
+            "properties": {
+                "date": {
+                    "id": ":v@q",
+                    "type": "date",
+                    "date": {
+                        "start": "2025-03-06",
+                        "end": null,
+                        "time_zone": null
+                    }
+                },
+                "사람": {
+                    "id": "U|gD",
+                    "type": "people",
+                    "people": []
+                },
+                "stats": {
+                    "id": "mS<H",
+                    "type": "status",
+                    "status": {
+                        "id": "32616285-4c35-47d8-a811-2421a0629fb6",
+                        "name": "완료",
+                        "color": "green"
+                    }
+                },
+                "Name": {
+                    "id": "title",
+                    "type": "title",
+                    "title": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "나",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "나",
+                            "href": null
+                        }
+                    ]
+                }
+            },
+            "url": "https://www.notion.so/1aca98096c8a8001bbcef968a60af5cd",
+            "public_url": null
+        },
+        {
+            "object": "page",
+            "id": "1aca9809-6c8a-802e-bca5-ea2af32d0e60",
+            "created_time": "2025-03-04T13:56:00.000Z",
+            "last_edited_time": "2025-03-04T17:24:00.000Z",
+            "created_by": {
+                "object": "user",
+                "id": "5f0ef011-fed1-4676-b81e-424613690e5f"
+            },
+            "last_edited_by": {
+                "object": "user",
+                "id": "5f0ef011-fed1-4676-b81e-424613690e5f"
+            },
+            "cover": null,
+            "icon": null,
+            "parent": {
+                "type": "database_id",
+                "database_id": "1aca9809-6c8a-806a-9970-ca1439f4af2e"
+            },
+            "archived": false,
+            "in_trash": false,
+            "properties": {
+                "date": {
+                    "id": ":v@q",
+                    "type": "date",
+                    "date": {
+                        "start": "2025-03-05",
+                        "end": null,
+                        "time_zone": null
+                    }
+                },
+                "사람": {
+                    "id": "U|gD",
+                    "type": "people",
+                    "people": [
+                        {
+                            "object": "user",
+                            "id": "5f0ef011-fed1-4676-b81e-424613690e5f",
+                            "name": "준우",
+                            "avatar_url": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/82be75e8-1bd7-495f-ba2e-d5c231be6c07/avatar.webp",
+                            "type": "person",
+                            "person": {
+                                "email": "red@soongsil.ac.kr"
+                            }
+                        }
+                    ]
+                },
+                "stats": {
+                    "id": "mS<H",
+                    "type": "status",
+                    "status": {
+                        "id": "f6aaa284-6d6f-42a5-9527-500347980689",
+                        "name": "진행 중",
+                        "color": "blue"
+                    }
+                },
+                "Name": {
+                    "id": "title",
+                    "type": "title",
+                    "title": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "가",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "가",
+                            "href": null
+                        }
+                    ]
+                }
+            },
+            "url": "https://www.notion.so/1aca98096c8a802ebca5ea2af32d0e60",
+            "public_url": null
+        }
+    ],
+    "next_cursor": null,
+    "has_more": false,
+    "type": "page_or_database",
+    "page_or_database": {},
+    "request_id": "974418b4-0579-4957-8cff-829a792d8580"
+}

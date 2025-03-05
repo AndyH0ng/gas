@@ -26,7 +26,7 @@ async def check_status_changes():
         if page_id in previous_status:
             if previous_status[page_id] != status:
                 previous_status[page_id] = status
-                channel = client.get_channel(int(secrets.CHANNEL_ID))
+                channel = client.get_channel(int(secrets.CHANNEL_ID_1))
                 await channel.send(strings.MODIFIED_STATS.format(title, status))
         else:
             previous_status[page_id] = status
@@ -43,7 +43,7 @@ async def check_new_task():
         page_id = page['id']
         if page_id in new_page_ids:
             title = page['properties'][config.TITLE]['title'][0]['text']['content']
-            channel = client.get_channel(int(secrets.CHANNEL_ID))
+            channel = client.get_channel(int(secrets.CHANNEL_ID_1))
             await channel.send(strings.NEW_TASK_ADDED.format(title))
 
     previous_pages.update(new_page_ids)
@@ -64,7 +64,7 @@ async def on_message(message):
             date_start = page['properties'][config.DATE]['date']['start']
             date_end = page['properties'][config.DATE]['date']['end']
             status = page['properties'][config.STATS]['status']['name']
-            people = page['properties'][config.PEOPLE]['people'][0]['name'] if page['properties'][config.PEOPLE][
+            people = page['properties'][config.ASSIGNEE]['people'][0]['name'] if page['properties'][config.ASSIGNEE][
                 'people'] else None
             await message.channel.send(f'제목: {title}, 날짜: {date_start} ~ {date_end}, 정보: {status}, 사람: {people}')
 

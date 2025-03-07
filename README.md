@@ -4,7 +4,7 @@
 
 <h1 align="center">GAS</h1>
 
-<p align="center">GameWorks Automation System<br/>GAS is a Discord automated chat-bot enhances efficiency of your work.</p>
+<p align="center">GameWorks Automation System<br/>GAS is is a Discord automated chat-bot that helps you manage your Notion workspace.</p>
 
 ---
 ## Features

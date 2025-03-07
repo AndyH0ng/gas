@@ -36,4 +36,18 @@ GAS를 사용하기 위해서는 다음과 같은 설정이 필요합니다.
 5. 봇이 접근할 수 있는 채널의 ID를 확인합니다.
 6. `config.py`의 `CHANNEL_ID`에 봇이 접근할 채널의 ID를 입력합니다.
 
+## Installation
+
+```bash
+$ pip install -r requirements.txt
 ```
+
+## Usage
+
+```bash
+$ python main.py
+```
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.

@@ -10,7 +10,7 @@ headers = {
 
 def get_pages(cnt_pages=None):
     url = f'https://api.notion.com/v1/databases/{secrets.DATABASE_ID}/query'
-    page_size = 100 if cnt_pages is None else cnt_pages
+    page_size = config.NOTION_LOAD_SIZE if cnt_pages is None else cnt_pages
     payload = {"page_size": page_size}
     response = requests.post(url, headers=headers, json=payload)
     data = response.json()
